@@ -1,5 +1,4 @@
 #import the libraries
-from scipy.spatial import distance as dist
 from scipy import signal
 import pandas as pd
 import numpy as np
